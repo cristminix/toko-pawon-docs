@@ -1,0 +1,6 @@
+![Manage](images/wilayah-pajak/manage.png)
+![Create](images/wilayah-pajak/create.png)
+![Edit](images/wilayah-pajak/edit.png)
+![Detail](images/wilayah-pajak/detail.png)
+![Pengabaian](images/wilayah-pajak/pengabaian.png)
+![Jelajahi](images/wilayah-pajak/jelajah-produk.png)

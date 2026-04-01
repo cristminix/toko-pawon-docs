@@ -1,0 +1,35 @@
+site_name: Dokumentasi Toko Pawon
+site_url: https://docs.pawon.cloud/toko-pawon/v1
+theme:
+  name: material
+  language: id
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - image.zoom
+
+nav:
+  - Home: index.md
+  - Admin:
+    - Login: admin/login.md
+    - Pengaturan Ongkir (Pawon Logistik): admin/pengaturan-shipping.md
+    - Pengaturan:
+      - Saluran Penjualan: admin/pengaturan/saluran-penjualan.md
+      - Lokasi & Pengiriman: admin/pengaturan/lokasi-dan-pengiriman.md
+      - Wilayah: admin/pengaturan/wilayah.md
+      - Wilayah Pajak: admin/pengaturan/wilayah-pajak.md
+      - Jenis Produk: admin/pengaturan/jenis-produk.md
+      - Tag Produk: admin/pengaturan/tag-produk.md
+      - Toko: admin/pengaturan/toko.md
+      - Pengguna: admin/pengaturan/pengguna.md
+      - Profile: admin/pengaturan/profile.md
+  - Produk:
+    - Manajemen:
+      - Daftar Produk: admin/produk/manage.md
+      - Membuat Produk : admin/produk/add.md
+    - Kategori: admin/produk/kategori.md
+    - Koleksi: admin/produk/koleksi.md
