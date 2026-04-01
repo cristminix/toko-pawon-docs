@@ -14,7 +14,7 @@ theme:
 
 nav:
   - Home: index.md
-  - Admin:
+  - Admin Toko:
     - Login: admin/login.md
     - Pengaturan Ongkir (Pawon Logistik): admin/pengaturan-shipping.md
     - Pengaturan:
@@ -27,9 +27,11 @@ nav:
       - Toko: admin/pengaturan/toko.md
       - Pengguna: admin/pengaturan/pengguna.md
       - Profile: admin/pengaturan/profile.md
-  - Produk:
+  - Manajemen Produk:
     - Manajemen:
-      - Daftar Produk: admin/produk/manage.md
-      - Membuat Produk : admin/produk/add.md
-    - Kategori: admin/produk/kategori.md
-    - Koleksi: admin/produk/koleksi.md
+      - Manajemen Produk: admin/produk/manage.md
+      - Menambah Produk Baru: admin/produk/add.md
+    - Kategori Produk: admin/produk/kategori.md
+    - Membuat Kategori: admin/produk/add-kategori.md
+    - Detail Kategori: admin/produk/detail-kategori.md
+    - Koleksi Produk: admin/produk/koleksi.md
