@@ -6,6 +6,9 @@
 
 ## **Manajemen Koleksi Produk**
 
+Link ke aplikasi admin : <a href="https://store.pawon.cloud/app/collections" target="_blank">https://store.pawon.cloud/app/collections</a>
+
+
 Halaman ini digunakan untuk mengatur dan mengelompokkan produk ke dalam berbagai koleksi (kategori khusus). Berikut adalah penjelasan fungsi dari setiap elemen yang ditandai dengan angka pada layar:
 
 * **[1] Baris Data Koleksi**
