@@ -31,6 +31,7 @@ nav:
     - Manajemen:
       - Manajemen Produk: admin/produk/manage.md
       - Menambah Produk Baru: admin/produk/add.md
+      - Menambah Produk Baru (Multi Varian): admin/produk/add-multi-variant.md
     - Kategori Produk: admin/produk/kategori.md
     - Membuat Kategori: admin/produk/add-kategori.md
     - Detail Kategori: admin/produk/detail-kategori.md
