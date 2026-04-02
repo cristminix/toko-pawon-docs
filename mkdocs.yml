@@ -39,3 +39,10 @@ nav:
     - Koleksi Produk: admin/produk/koleksi.md
   - Manajemen Pelanggan: 
     - Kelola Pelanggan: admin/pelanggan/manage.md
+    - Aktivasi Pelanggan: admin/pelanggan/aktifasi-pelanggan.md
+    - Detail Pelanggan: admin/pelanggan/detail-pelanggan.md
+
+  - Manajemen Pesanan:
+    - Daftar Pesanan: admin/pesanan/manage.md
+    - Detail Pesanan: admin/pesanan/detail-pesanan.md
+    

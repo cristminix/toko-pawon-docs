@@ -85,6 +85,12 @@ Daftar Varian produk yang sudah kita buat berdasarkan opsi varian yang sudah kit
         ![edit-harga-all-varian](images/detail/edit-harga-all-varian.png)
     * **13 - Edit Stock Bertingkat:** Mengubah stock bertingkat semua varian.
         ![edit-stok-bertingkat](images/detail/edit-stok-bertingkat.png)
+
+        ![edit-stok-bertingkat-active](images/detail/edit-stok-bertingkat-active.png)
+
+        Tindakan akan mengupdate jumlah ketersediaan stok untuk semua varian produk.
+
+
 * **Tabel Data Varian:**
     * **14 - Informasi Varian:** Menampilkan gambar varian, Nama Varian (contoh: Caramel), SKU produk, dan nilai opsinya.
     * **15 - Status Inventaris:** Menampilkan jumlah stok produk dan ketersediaan lokasi.

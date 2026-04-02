@@ -19,6 +19,7 @@ Berikut adalah penjelasan fungsi untuk masing-masing area yang ditandai dengan a
     * **Varian**: Jumlah tipe atau ukuran yang tersedia untuk produk tersebut.
     * **Status**: Kondisi produk saat ini (contoh: Dipublikasikan, Draf).
     > *Catatan: Mengklik pada baris produk ini akan mengarahkan Anda ke halaman detail produk untuk pengeditan lebih lanjut.*
+    Lihat juga : [Detail Produk](detail-produk.md)
 
 * **2. Tambah Filter**
     Tombol ini berfungsi untuk menyaring atau memfilter daftar produk yang tampil berdasarkan kriteria spesifik, seperti status publikasi, koleksi tertentu, atau tipe produk. Fitur ini sangat berguna jika Anda memiliki ribuan produk dan ingin menampilkan kelompok tertentu saja.
