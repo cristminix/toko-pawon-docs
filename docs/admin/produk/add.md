@@ -1,6 +1,6 @@
 # Menambah Produk Baru
 
-Untuk menambah item produk baru Anda bisa pergi ke [Manajemen Produk](manage.md) Link ke aplikasi admin : <a href="https://store.pawon.cloud/app/products" target="_blank">https://store.pawon.cloud/app/products</a> dan menekan tombol nomor 4 seperti gambar berikut:
+Untuk menambah item produk baru Anda bisa pergi ke [Manajemen Produk](manage.md) Link ke aplikasi admin : <a href="https://store.tokopawon.id/app/products" target="_blank">https://store.tokopawon.id/app/products</a> dan menekan tombol nomor 4 seperti gambar berikut:
 
  ![Create-02](images/fokus-buat-produk.png)
 

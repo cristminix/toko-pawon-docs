@@ -5,7 +5,7 @@
 
 ##  Manajemen Kategori Produk
 
-Link ke aplikasi admin : <a href="https://store.pawon.cloud/app/categories" target="_blank">https://store.pawon.cloud/app/categories</a>
+Link ke aplikasi admin : <a href="https://store.tokopawon.id/app/categories" target="_blank">https://store.tokopawon.id/app/categories</a>
 
 Halaman **Kategori** digunakan untuk mengatur produk ke dalam kelompok tertentu, serta mengelola peringkat (urutan) dan hierarki dari kategori-kategori tersebut. Antarmuka ini memberikan gambaran umum mengenai semua kategori yang terdaftar di dalam sistem.
 

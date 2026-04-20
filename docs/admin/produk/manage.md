@@ -7,7 +7,7 @@
 
 Halaman **Produk** digunakan untuk mengelola seluruh daftar barang atau SKU yang terdaftar di sistem toko Anda. Melalui halaman ini, Anda dapat menambah produk baru, melakukan pencarian, menyaring daftar, hingga mengelola status produk.
 
-Link ke aplikasi admin : <a href="https://store.pawon.cloud/app/products" target="_blank">https://store.pawon.cloud/app/products</a>
+Link ke aplikasi admin : <a href="https://store.tokopawon.id/app/products" target="_blank">https://store.tokopawon.id/app/products</a>
 
 Berikut adalah penjelasan fungsi untuk masing-masing area yang ditandai dengan angka pada antarmuka:
 
