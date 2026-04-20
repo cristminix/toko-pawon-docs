@@ -1,6 +1,6 @@
 ## Tata Cara  Masuk Ke Halaman Admin Toko Pawon
 
-Buka alamat [https://store.toko.pawon.cloud](https://store.toko.pawon.cloud)
+Buka alamat [https://store.pawon.cloud/app](https://store.pawon.cloud/app)
 
 ![Halaman Login](images/login-page.png) 
 
